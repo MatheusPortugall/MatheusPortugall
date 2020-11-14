@@ -4,7 +4,7 @@
 **MatheusPortugall/MatheusPortugall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <details>
-  <summary>teste</summary>
+  <summary><b>Mais sobre mim:</b> {click to expand}</summary>
 </details>
 
 Here are some ideas to get you started:
