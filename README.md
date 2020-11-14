@@ -21,7 +21,7 @@
 <div>
  <p>
   Eu sou Matheus Portugal, sou Programador no [Cronapp](https://www.cronapp.io/). Utilizo em meu cotidiano: 
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="20 /> <b>JavaScript</b>, &&
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="20" /> <b>JavaScript</b>, &&
    <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS" /> <b>CSS</b>, &&
    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="20" alt="ANGULARJS" /> <b>AngularJS</b>.
 
