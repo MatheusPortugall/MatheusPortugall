@@ -1,20 +1,26 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-<!--
-**MatheusPortugall/MatheusPortugall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
 
-<details>
-  <summary><b>Mais sobre mim: </b> <i>{click to expand!}</i> </summary>
-</details>
+<a href="https://www.linkedin.com/in/matheus-portugal-50384915b">
+  <img align="left" alt="Matheus LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/matheus.portugal.52/">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/mattheusportugall/?hl=pt-br">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+<div>
+ <p>
+  Eu sou Matheus Portugal, sou Programador no [Cronapp](https://www.cronapp.io/).
+   Utilizo em meu cotidiano: <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" alt="JS" width="20 /> <b>JavaScript</b>, <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS" /> <b>CSS</b>, <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="20" alt="ANGULARJS" /> <b>AngularJS</b>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
