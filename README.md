@@ -20,11 +20,13 @@
 
 <div>
  <p>
-  Me chamo Matheus Portugal, sou Programador no [Cronapp](https://www.cronapp.io/). <br />
+  Me chamo Matheus Portugal, sou Desenvolvedor Full Stack no [Cronapp](https://www.cronapp.io/). <br />
   Utilizo em meu cotidiano: 
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="20" /> <b>JavaScript</b>,
    <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS" width="20" /> <b>CSS</b>,
-   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="20" alt="ANGULARJS" /> <b>AngularJS</b>.
+   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="20" alt="ANGULARJS" /> <b>AngularJS</b>,
+  <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/128/Java-icon.png" width="20" alt="Java" /> <b>Java</b>,
+  <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/boot_spring_logo_icon_214693.png" width="20" alt="Java" /> <b>Spring boot</b>.
 
 
 </p>
